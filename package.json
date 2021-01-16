@@ -1,0 +1,23 @@
+{
+  "name": "error-types",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prepublish": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gtormo/error-types.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gtormo/error-types/issues"
+  },
+  "homepage": "https://github.com/gtormo/error-types#readme",
+  "types": "index.d.ts",
+  "devDependencies": {
+    "typescript": "^4.0.2"
+  }
+}
